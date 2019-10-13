@@ -1,1 +1,1 @@
-pust "hello"
+puts "こんにちは！"
